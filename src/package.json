@@ -1,0 +1,14 @@
+{
+  "name": "alexa-app-template",
+  "version": "1.0.0",
+  "description": "Alexa App Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Kruse <github@mattkruse.com> (http://mattkruse.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-app": "^4.2.0"
+  }
+}
